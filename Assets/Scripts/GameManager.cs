@@ -137,8 +137,8 @@ public class GameManager : MonoBehaviour
         else
         {
             //-ts
-            Time.timeScale = 0.1f;
-            Time.fixedDeltaTime = Time.timeScale * 0.02f;
+            //Time.timeScale = 0.1f;
+            //Time.fixedDeltaTime = Time.timeScale * 0.02f;
             //SlowMo.main.Freeze(15);
 
             CameraShaker.Instance.ShakeOnce(2, 20, 0, 2);

@@ -231,7 +231,7 @@ PrefabInstance:
     - target: {fileID: 2820619237024899745, guid: 3c3ee6e889e7e44b5b08e1e20fe2783e,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3876190962683024539, guid: 3c3ee6e889e7e44b5b08e1e20fe2783e,
         type: 3}
@@ -455,7 +455,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2ab8353b5ebd32545867da143199a814, type: 3}
   m_Name: 
@@ -485,7 +485,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!198 &550251750
 ParticleSystem:
   m_ObjectHideFlags: 0
@@ -5297,7 +5297,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &659497626
 Transform:
   m_ObjectHideFlags: 0
@@ -10368,7 +10368,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &976155649
 Transform:
   m_ObjectHideFlags: 0
@@ -15932,7 +15932,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!198 &1700834751
 ParticleSystem:
   m_ObjectHideFlags: 0
@@ -20825,7 +20825,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!198 &1766942021
 ParticleSystem:
   m_ObjectHideFlags: 0
@@ -25890,7 +25890,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e19f59c919b6a42b8b6249ae9279aaa0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enableFollowCam: 1
+  enableFollowCam: 0
   cam: {fileID: 519420031}
   followCam: 0
 --- !u!4 &1971983873

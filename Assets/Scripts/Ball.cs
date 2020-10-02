@@ -107,7 +107,7 @@ public class Ball : MonoBehaviour
                 CameraShaker.Instance.ShakeOnce(2, 7, 0, 0.3f);
 
                 //-freeze
-                SlowMo.main.Freeze(5);
+                //SlowMo.main.Freeze(5);
 
                 ParticleManager.main.play(0, transform.position, colorList[hp + 1]);
 
